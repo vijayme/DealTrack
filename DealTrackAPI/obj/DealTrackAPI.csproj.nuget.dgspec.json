@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nalin\\Desktop\\Cox_Automotive\\DealTrackAPI\\DealTrackAPI.csproj": {}
+    "C:\\Users\\Nalin\\Desktop\\DealTrackFromGit\\DealTrackAPI\\DealTrackAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nalin\\Desktop\\Cox_Automotive\\DealTrackAPI\\DealTrackAPI.csproj": {
+    "C:\\Users\\Nalin\\Desktop\\DealTrackFromGit\\DealTrackAPI\\DealTrackAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nalin\\Desktop\\Cox_Automotive\\DealTrackAPI\\DealTrackAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Nalin\\Desktop\\DealTrackFromGit\\DealTrackAPI\\DealTrackAPI.csproj",
         "projectName": "DealTrackAPI",
-        "projectPath": "C:\\Users\\Nalin\\Desktop\\Cox_Automotive\\DealTrackAPI\\DealTrackAPI.csproj",
+        "projectPath": "C:\\Users\\Nalin\\Desktop\\DealTrackFromGit\\DealTrackAPI\\DealTrackAPI.csproj",
         "packagesPath": "C:\\Users\\Nalin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nalin\\Desktop\\Cox_Automotive\\DealTrackAPI\\obj\\",
+        "outputPath": "C:\\Users\\Nalin\\Desktop\\DealTrackFromGit\\DealTrackAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
